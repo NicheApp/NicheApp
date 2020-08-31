@@ -6,24 +6,24 @@
 ## - 🔭 Explore My Projects
 
 ### ⦿ Providers 
-Languages - Java
-Platform & IDE - AWS & Android Studio
-Database/Storage - Dynamo Db, S3
-Others- AWS App Sync, GraphQl, Google Map APis
-Ui is done by - XML, Figma , Adobe Xd
+Languages - Java  
+Platform & IDE - AWS & Android Studio  
+Database/Storage - Dynamo Db, S3  
+Others- AWS App Sync, GraphQl, Google Map APis  
+Ui is done by - XML, Figma , Adobe Xd  
 
 
 ### ⦿ Book Bazaar(🤫 Private Repo )
-Languages - Java
-Platform & IDE - Firebase & Android Studio
-Database/Storage - Realtime Database , Firestore, Firebase Storage
-Others -Google Apis
+Languages - Java  
+Platform & IDE - Firebase & Android Studio  
+Database/Storage - Realtime Database , Firestore, Firebase Storage  
+Others -Google Apis  
 
 ####  Book Bazaar API
-Languages - Python
-Framework - FlaskDatase
-Tool - Postman
-Database - Firebase
+Languages - Python  
+Framework - FlaskDatase  
+Tool - Postman  
+Database - Firebase  
 
 ### ⦿ Audiometer 
 🤗 thanks to SRM-BIO TECH dept for providing this project
@@ -31,7 +31,7 @@ Database - Firebase
 ### ⦿ EntertainmentBox 
 ALL Apps in One App----check it enjoy it-->
 
-### ⦿ SRM Pharmacy
+### ⦿ SRM Pharmacy🙁
 🤗Credit @DIVIJ for this project . 
 
 ### ⦿ Math Goddies
