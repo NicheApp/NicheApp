@@ -6,7 +6,7 @@
 
 ### ⦿ Providers 
   
-  <img align="right" height=380em src="https://user-images.githubusercontent.com/47109963/91703217-785a6300-eb97-11ea-97b2-6f5c200d8ca8.gif"></img>
+  <img align="right" height=360em src="https://user-images.githubusercontent.com/47109963/91703217-785a6300-eb97-11ea-97b2-6f5c200d8ca8.gif"></img>
 Languages - Java  
 Platform & IDE - AWS & Android Studio  
 Database/Storage - Dynamo Db, S3  
