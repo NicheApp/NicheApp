@@ -1,6 +1,5 @@
 ## Hi there 👋 Glad to see you here :heart:
 <img align="left" height=180em src="https://user-images.githubusercontent.com/47109963/91696780-bbafd400-eb8d-11ea-8234-cbd731e2ca7c.gif"></img>
-https://user-images.githubusercontent.com/47109963/91703217-785a6300-eb97-11ea-97b2-6f5c200d8ca8.gif
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## - 🔭 Explore My Projects
