@@ -41,7 +41,7 @@ ALL Apps in One App----check it enjoy it-->
 😅 sorry code is not available formatted while installing Ubuntu on my laptop 🙁 ..only jar file is available
 
 ### ⦿ Student Sheets
-Get Your 
+Provides Previous year papers .  Student can filter their choice
 
 ### ⦿ Personal diary
 only Spent 3 hours and made a passsword based diary ..built in C language
