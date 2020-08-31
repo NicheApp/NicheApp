@@ -1,9 +1,9 @@
-##Hi there 👋 Glad to see you here :heart:
+## Hi there 👋 Glad to see you here :heart:
 <img align="left" height=180em src="https://user-images.githubusercontent.com/47109963/91696780-bbafd400-eb8d-11ea-8234-cbd731e2ca7c.gif"></img>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-# - 🔭 Explore My Projects
+## - 🔭 Explore My Projects
 
 ### Providers (Tech used-> AWS(S3+Dynamo DB + App Sync + GraphQL + Android Studio) , Android Studio) 
 
