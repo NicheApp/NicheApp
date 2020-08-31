@@ -5,23 +5,42 @@
 
 ## - 🔭 Explore My Projects
 
-### Providers (Tech used-> AWS(S3+Dynamo DB + App Sync + GraphQL + Android Studio) , Android Studio) 
+### ⦿ Providers 
+Languages - Java
+Platform & IDE - AWS & Android Studio
+Database/Storage - Dynamo Db, S3
+Others- AWS App Sync, GraphQl, Google Map APis
+Ui is done by - XML, Figma , Adobe Xd
 
-### Book Bazaar(OOps it's 🤫 Private )
 
-### Audiometer 
+### ⦿ Book Bazaar(🤫 Private Repo )
+Languages - Java
+Platform & IDE - Firebase & Android Studio
+Database/Storage - Realtime Database , Firestore, Firebase Storage
+Others -Google Apis
+
+####  Book Bazaar API
+Languages - Python
+Framework - FlaskDatase
+Tool - Postman
+Database - Firebase
+
+### ⦿ Audiometer 
 🤗 thanks to SRM-BIO TECH dept for providing this project
 
-### EntertainmentBox 
+### ⦿ EntertainmentBox 
 ALL Apps in One App----check it enjoy it-->
 
-### SRM Pharmacy
+### ⦿ SRM Pharmacy
 🤗Credit @DIVIJ for this project . 
 
-### Math Goddies
+### ⦿ Math Goddies
 😅 sorry code is not available formatted while installing Ubuntu on my laptop 🙁 ..only jar file is available
 
-### Personal diary
+### ⦿ Student Sheets
+Get Your 
+
+### ⦿ Personal diary
 only Spent 3 hours and made a passsword based diary ..built in C language
 
 
