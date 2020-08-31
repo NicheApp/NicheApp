@@ -3,6 +3,21 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+## - 🔭 Explore My Projects
+
+# Providers (Tech used-> AWS(S3+Dynamo DB + App Sync + GraphQL + Android Studio) , Android Studio) 
+# Book Bazaar(OOps it's 🤫 Private )
+# Audiometer 
+🤗 thanks to SRM-BIO TECH dept for providing this project
+# EntertainmentBox 
+ALL Apps in One App----check it enjoy it-->
+# SRM Pharmacy
+🤗Credit @DIVIJ for this project . 
+# Math Goddies
+😅 sorry code is not available formatted while installing Ubuntu on my laptop 🙁 ..only jar file is available
+# Personal diary
+only Spent 3 hours and made a passsword based diary ..built in C language
+
 
 
 
