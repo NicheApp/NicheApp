@@ -1,21 +1,27 @@
-### Hi there 👋 Glad to see you here :heart:
+##Hi there 👋 Glad to see you here :heart:
 <img align="left" height=180em src="https://user-images.githubusercontent.com/47109963/91696780-bbafd400-eb8d-11ea-8234-cbd731e2ca7c.gif"></img>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## - 🔭 Explore My Projects
+# - 🔭 Explore My Projects
 
-# Providers (Tech used-> AWS(S3+Dynamo DB + App Sync + GraphQL + Android Studio) , Android Studio) 
-# Book Bazaar(OOps it's 🤫 Private )
-# Audiometer 
+### Providers (Tech used-> AWS(S3+Dynamo DB + App Sync + GraphQL + Android Studio) , Android Studio) 
+
+### Book Bazaar(OOps it's 🤫 Private )
+
+### Audiometer 
 🤗 thanks to SRM-BIO TECH dept for providing this project
-# EntertainmentBox 
+
+### EntertainmentBox 
 ALL Apps in One App----check it enjoy it-->
-# SRM Pharmacy
+
+### SRM Pharmacy
 🤗Credit @DIVIJ for this project . 
-# Math Goddies
+
+### Math Goddies
 😅 sorry code is not available formatted while installing Ubuntu on my laptop 🙁 ..only jar file is available
-# Personal diary
+
+### Personal diary
 only Spent 3 hours and made a passsword based diary ..built in C language
 
 
