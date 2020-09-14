@@ -1,11 +1,10 @@
 ## Hi there 👋 Glad to see you here :heart:
 <img align="left" height=180em src="https://user-images.githubusercontent.com/47109963/91696780-bbafd400-eb8d-11ea-8234-cbd731e2ca7c.gif"></img>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicheApp&hide=contribs,prs)
+<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=NicheApp&hide=contribs,prs"></img>
+<img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicheApp)](https://github.com/anuraghazra/github-readme-stats"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicheApp)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ## - 🔭 Explore My Projects
 
