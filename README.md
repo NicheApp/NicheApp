@@ -3,6 +3,7 @@
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=NicheApp&hide=contribs,prs"></img>
 
 <br/><br/><br/>
+<br/><br/><br/>
 
 ## - 🔭 Explore My Projects
 
