@@ -1,6 +1,6 @@
 ## Hi there 👋 Glad to see you here :heart:
 <img align="left" height=180em src="https://user-images.githubusercontent.com/47109963/91696780-bbafd400-eb8d-11ea-8234-cbd731e2ca7c.gif"></img>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicheApp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicheApp)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicheApp&hide=contribs,prs)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
