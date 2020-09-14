@@ -2,8 +2,8 @@
 <img align="left" height=180em src="https://user-images.githubusercontent.com/47109963/91696780-bbafd400-eb8d-11ea-8234-cbd731e2ca7c.gif"></img>
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=NicheApp&hide=contribs,prs"></img>
 
-<br/><br/><br/>
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 ## - 🔭 Explore My Projects
 
