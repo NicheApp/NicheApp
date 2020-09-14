@@ -1,6 +1,6 @@
 ## Hi there 👋 Glad to see you here :heart:
 <img align="left" height=180em src="https://user-images.githubusercontent.com/47109963/91696780-bbafd400-eb8d-11ea-8234-cbd731e2ca7c.gif"></img>
-<img align="right" height=180em src="https://user-images.githubusercontent.com/47109963/91707894-1e10d080-eb9e-11ea-8627-6349b11e2405.png"></img>
+<img align="right" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)></img>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicheApp&hide=contribs,prs)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
