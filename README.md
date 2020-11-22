@@ -26,7 +26,7 @@ Ui is done by - XML, Figma , Adobe Xd
 
 
 ### ⦿ Book Bazaar(🤫 Private Repo )
-####  GO TO APP -https://play.google.com/store/apps/details?id=com.MJ.buyandselling
+####  Play Store -https://play.google.com/store/apps/details?id=com.MJ.buyandselling
 Languages - Java  
 Platform & IDE - Firebase & Android Studio  
 Database/Storage - Realtime Database , Firestore, Firebase Storage  
