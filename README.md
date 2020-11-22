@@ -12,8 +12,8 @@
 ####  GO TO CODE - https://github.com/NicheApp/HI-Tech-AgriTech-project 
 
 Languages - Java ,Php ,SQL,Xml 
-Database - Mysql
-Server - Xampp,wamp,lamp
+Database - Mysql 
+Server - Xampp,wamp,lamp 
 
 ### ⦿ Providers 
 ####  GO TO CODE -https://github.com/NicheApp/Providers3 
