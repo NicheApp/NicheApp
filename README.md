@@ -7,6 +7,15 @@
 
 ## - 🔭 Explore My Projects
 
+### ⦿ Agritech 
+####  Play Store - https://play.google.com/store/apps/details?id=com.mj.agritech 
+####  GO TO CODE - https://github.com/NicheApp/HI-Tech-AgriTech-project 
+
+  <img align="right" height=360em src="https://user-images.githubusercontent.com/47109963/91703217-785a6300-eb97-11ea-97b2-6f5c200d8ca8.gif"></img>
+Languages - Java ,Php ,SQL,Xml 
+Database - Mysql
+Server - Xampp,wamp,lamp
+
 ### ⦿ Providers 
 ####  GO TO CODE -https://github.com/NicheApp/Providers3 
   <img align="right" height=360em src="https://user-images.githubusercontent.com/47109963/91703217-785a6300-eb97-11ea-97b2-6f5c200d8ca8.gif"></img>
