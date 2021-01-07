@@ -9,12 +9,12 @@
 
 ### ⦿ Sehat (Complete Health care solution) 
 ####  GO TO CODE - https://github.com/NicheApp/Sehat-App 
-Languages - Java ,xml
-Technologies - Rest , Retrofit
-Library - Opencv
-Database - Firestore Cloud
-IDE - Android studio
-API used - https://newsapi.org/ 
+Languages - Java ,xml 
+Technologies - Rest , Retrofit 
+Library - Opencv 
+Database - Firestore Cloud 
+IDE - Android studio 
+API used - https://newsapi.org/  
 
 ### ⦿ Agritech 
 ####  Play Store - https://play.google.com/store/apps/details?id=com.mj.agritech 
