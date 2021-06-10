@@ -16,10 +16,10 @@
 
 ### ⦿ Vigor (For Employees By the Company) 
 ####  GO TO CODE - https://github.com/NicheApp/V-I-G-O-R-Sap-Labs
-Languages - Java ,Php,Python, sql,Html, Css, java script
+Languages - Java ,Php,Python, sql,Html, Css, java script 
 Database - Mysql,Firebase
-Algorithms - Xgboost
-IDE - Android studio  
+Algorithms - Xgboost 
+IDE - Android studio   
 Research paper - https://www.researchgate.net/publication/40679451_A_self-assessment_questionnaire_for_mental_fatigue_and_related_symptoms_after_neurological_disorders_and_injuries
 
 
